@@ -1,0 +1,10 @@
+{
+    "id": "flomo-sync-launcher",
+    "name": "Flomo Sync Launcher",
+    "version": "1.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Sync your Flomo memos to Obsidian automatically.",
+    "author": "Trae Assistant",
+    "authorUrl": "https://github.com/lealee/Aha-leah",
+    "isDesktopOnly": true
+}

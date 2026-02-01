@@ -1,4 +1,5 @@
-# Aha-leah (Flomo Sync for Obsidian)
+# Flomo Sync for Obsidian
+> by Aha-leah
 
 A simple but powerful Obsidian plugin to sync your **Flomo (浮墨)** memos into your Obsidian vault automatically.
 
